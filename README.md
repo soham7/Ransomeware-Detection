@@ -17,5 +17,5 @@ RanSAP: An open dataset of ransomware storage access patterns for training machi
 Volume 40,2022,301314,ISSN 2666-2817,
 https://doi.org/10.1016/j.fsidi.2021.301314.
 
-Visor I will be using WaybackVisor:
+Visor I will be using is WaybackVisor:
 Hirano, Manabu & Tsuzuki, Takuma & Ikeda, Seishiro & Taka, Naoga & Fujiwara, Kenji & Kobayashi, Ryotaro. (2017). WaybackVisor: Hypervisor-Based Scalable Live Forensic Architecture for Timeline Analysis. https://doi.org/10.1007/978-3-319-72395-2_21. 
