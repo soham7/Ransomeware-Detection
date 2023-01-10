@@ -1,2 +1,2 @@
 # Ransomeware-Detection
-Machine learning model for ransomware detection
+Machine learning model for ransomware detection.
